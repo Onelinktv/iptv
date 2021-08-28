@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,Jalsha Movies
+http://stream.dhakaflix.com:8081/live/jolshamovies/chunks.m3u8
+#EXTINF:-1 ,Star Jalsha
+http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
